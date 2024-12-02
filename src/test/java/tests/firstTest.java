@@ -1,6 +1,5 @@
 package tests;
 
-import java.awt.desktop.UserSessionEvent;
 import java.util.List;
 
 import org.openqa.selenium.By;
