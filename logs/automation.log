@@ -5,3 +5,10 @@
 2024-11-29 12:42:56 INFO  Utils:112 - [TestNG] Running:
   C:\Users\HP\IdeaProjects\Projectsss\DemoAuto\testng1.xml
 
+2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.loadBrowser()]. Static configuration methods can cause unexpected behavior.
+2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.closeBrowser()]. Static configuration methods can cause unexpected behavior.
+2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.loadBrowser()]. Static configuration methods can cause unexpected behavior.
+2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.closeBrowser()]. Static configuration methods can cause unexpected behavior.
+2024-12-02 13:24:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Exam\spring6-course-313724977c6a0c76231119984893c89923591d5d\spring6-course-313724977c6a0c76231119984893c89923591d5d\DemoAuto\testng2.xml
+

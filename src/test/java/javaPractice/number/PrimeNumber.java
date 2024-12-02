@@ -1,6 +1,6 @@
-package javaPractice;
+package javaPractice.number;
 
-public class primeNumber {
+public class PrimeNumber {
     public static void main(String args[]){
 
 
