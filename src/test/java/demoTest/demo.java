@@ -1,15 +1,9 @@
-
+package demoTest;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
-import javax.sound.midi.Soundbank;
-
-import org.apache.commons.collections4.functors.WhileClosure;
-import org.apache.poi.ss.formula.ptg.NotEqualPtg;
-import org.apache.xmlbeans.impl.xb.xsdschema.All;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -17,7 +11,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import tests.search;
 
 public class demo {
 	WebElement search = null ;

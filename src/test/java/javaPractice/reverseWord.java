@@ -1,4 +1,4 @@
-package pageObject;
+package javaPractice;
 
 import static org.testng.Assert.assertEquals;
 
