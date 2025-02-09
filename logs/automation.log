@@ -1,14 +1,11 @@
-2024-11-29 12:35:34 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
-2024-11-29 12:35:34 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
-2024-11-29 12:42:56 WARN  Configuration:133 - Detected a static method [tests.baseTest.loadBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-11-29 12:42:56 WARN  Configuration:133 - Detected a static method [tests.baseTest.closeBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-11-29 12:42:56 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\HP\IdeaProjects\Projectsss\DemoAuto\testng1.xml
+2024-12-17 12:13:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
 
-2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.loadBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.closeBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.loadBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-12-02 13:24:06 WARN  Configuration:133 - Detected a static method [tests.baseTest.closeBrowser()]. Static configuration methods can cause unexpected behavior.
-2024-12-02 13:24:06 INFO  Utils:112 - [TestNG] Running:
-  C:\Exam\spring6-course-313724977c6a0c76231119984893c89923591d5d\spring6-course-313724977c6a0c76231119984893c89923591d5d\DemoAuto\testng2.xml
+2024-12-17 12:14:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
 
+2024-12-17 12:29:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-12-17 12:30:12 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-17 12:30:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe

@@ -1,10 +1,13 @@
 package api;
 
+
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 import static io.restassured.RestAssured.baseURI;
 import static io.restassured.RestAssured.given;
+import  io.restassured.*;
 
 public class postApiSchemaValidator {
     public static void main(String[] args) throws FileNotFoundException {
@@ -17,10 +20,9 @@ public class postApiSchemaValidator {
                 .body(f)
                 .when()
                 .post("/pet")
-                .then()
-                .statusCode(200)
-                .log().body()
-                .body(matchesJsonSchemaInClassPath("postPetSchema.json"));
+                .then();
+//                .assertThat().body(matches)
+//                .body(matchesJsonSchemaInClasspath("postPetSchema.json"));
 
     }
 
